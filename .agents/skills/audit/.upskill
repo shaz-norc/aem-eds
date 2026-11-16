@@ -1,0 +1,14 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "audit",
+  "path": "plugins/stardust/skills/audit",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:56.000Z",
+  "files": [
+    "SKILL.md",
+    "reference/report-format.md",
+    "reference/scoring.md"
+  ]
+}

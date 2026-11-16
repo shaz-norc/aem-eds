@@ -1,0 +1,15 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "content-diff",
+  "path": "plugins/aem/edge-delivery-services-content-ops/skills/content-diff",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:16.000Z",
+  "files": [
+    ".releaserc.json",
+    "CHANGELOG.md",
+    "SKILL.md",
+    "package.json"
+  ]
+}

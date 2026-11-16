@@ -1,0 +1,33 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "prototype",
+  "path": "plugins/stardust/skills/prototype",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:53.000Z",
+  "files": [
+    "SKILL.md",
+    "assets/motion/LICENSE.md",
+    "assets/motion/lenis.min.css",
+    "assets/motion/lenis.min.js",
+    "fixtures/composition-delta-good.md",
+    "fixtures/composition-delta-trivial.md",
+    "fixtures/mobile-nav-audit.mjs",
+    "fixtures/mobile-nav-broken-example.html",
+    "fixtures/mobile-nav-collapse-example.html",
+    "reference/anti-template-bank.md",
+    "reference/approval-fold-back.md",
+    "reference/canon-extraction.md",
+    "reference/fidelity-refined-pass.md",
+    "reference/mobile-nav-collapse.md",
+    "reference/motion-attributes.md",
+    "reference/motion-registers.md",
+    "reference/motion-runtime.md",
+    "reference/motion-stack.md",
+    "reference/motion-validation.md",
+    "reference/page-shape-brief.md",
+    "reference/proposed-file-shell.md",
+    "reference/publish-sample.md"
+  ]
+}

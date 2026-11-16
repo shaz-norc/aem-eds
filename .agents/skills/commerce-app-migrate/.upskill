@@ -1,0 +1,24 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "commerce-app-migrate",
+  "path": "plugins/commerce/app-migration/skills/commerce-app-migrate",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:01.000Z",
+  "files": [
+    "SKILL.md",
+    "agents/admin-ui-sdk.md",
+    "agents/analyzer.md",
+    "agents/business-config.md",
+    "agents/events.md",
+    "agents/executor.md",
+    "agents/webhooks.md",
+    "evals/evals.json",
+    "references/spectrum-s2-upgrade.md",
+    "shared/migration-warnings.md",
+    "shared/questions.md",
+    "shared/references.md",
+    "shared/schema.md"
+  ]
+}

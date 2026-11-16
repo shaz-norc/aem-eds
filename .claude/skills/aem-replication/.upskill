@@ -1,0 +1,25 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "aem-replication",
+  "path": "plugins/aem/6.5-lts/skills/aem-replication",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:42.000Z",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "configure-replication-agent/SKILL.md",
+    "references/replication-foundation/65-lts-guardrails.md",
+    "references/replication-foundation/agent-types.md",
+    "references/replication-foundation/api-reference.md",
+    "references/replication-foundation/queue-mechanics.md",
+    "replicate-content/SKILL.md",
+    "replicate-content/references/PACKAGE_REPLICATION.md",
+    "replicate-content/references/REPLICATION_API.md",
+    "replicate-content/references/TREE_ACTIVATION.md",
+    "replication-api/SKILL.md",
+    "replication-orchestrator/SKILL.md",
+    "troubleshoot-replication/SKILL.md"
+  ]
+}

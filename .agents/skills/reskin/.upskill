@@ -1,0 +1,21 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "reskin",
+  "path": "plugins/stardust/skills/reskin",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:51.000Z",
+  "files": [
+    "SKILL.md",
+    "reference/content-model.md",
+    "reference/donor-sources.md",
+    "reference/gates.md",
+    "reference/mapping-brief.md",
+    "scripts/capture-content.mjs",
+    "scripts/dom-equality.mjs",
+    "scripts/donor-probe.mjs",
+    "scripts/slot-coverage.mjs",
+    "scripts/source-normalize.mjs"
+  ]
+}

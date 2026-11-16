@@ -1,0 +1,12 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "adobe-document-review",
+  "path": "plugins/creative-cloud/adobe-for-creativity/skills/adobe-document-review",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:58.000Z",
+  "files": [
+    "SKILL.md"
+  ]
+}

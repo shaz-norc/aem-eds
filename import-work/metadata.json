@@ -1,0 +1,57 @@
+{
+  "url": "https://amplifyaapi.org/",
+  "timestamp": "2026-11-13T12:49:53.431Z",
+  "paths": {
+    "documentPath": "/index",
+    "htmlFilePath": "index.plain.html",
+    "mdFilePath": "index.md",
+    "dirPath": "",
+    "filename": "index"
+  },
+  "screenshot": "import-work/screenshot.png",
+  "html": {
+    "filePath": "import-work/cleaned.html",
+    "size": 34062
+  },
+  "metadata": {
+    "title": "Home - AAPI",
+    "viewport": "initial-scale=1.0, width=device-width",
+    "og:locale": "en_US",
+    "og:locale:alternate": "vi_VN",
+    "og:site_name": "AAPI",
+    "og:title": "Home - AAPI - AmeriSpeak",
+    "og:type": "website",
+    "og:url": "https://amplifyaapi.org",
+    "canonical": "https://amplifyaapi.org"
+  },
+  "images": {
+    "count": 17,
+    "mapping": {
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/icon_translate-white.svg": "./images/6e443d5be786746559577e8211c16486.png",
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/aapi.png": "./images/09b6e2d8dcfa30d4e7455bb592bf4d4c.png",
+      "https://amplifyaapi.org/documents/25464636/25466632/icon_step-1.svg/ffb243e5-8b51-2ed1-709e-b77e32db2d2f?t=1686579250260": "./images/2d008f79fc76b1b6f060b09d38b0da7c.png",
+      "https://amplifyaapi.org/documents/25464636/25466632/icon-arrow-green.svg/109ae4bf-226c-a2dd-d74a-89a06581cc63?t=1686579250758": "./images/d0a41c320544afe0841286783068ac14.png",
+      "https://amplifyaapi.org/documents/25464636/25466632/icon-arrow-green-down.svg/19d08357-5c0f-3ee8-4f8d-2127cfb64bee?t=1686579250978": "./images/6d86149262fc9746ec9a0425b4a8813e.png",
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/icon-caret-medium-dark-green.svg": "./images/d2b78f0b2d23ed60f999a00386845793.png",
+      "https://amplifyaapi.org/documents/25464636/25466632/icon_step-3.svg/5a633307-4928-8e4e-003b-c8b94298ca26?t=1686579250601": "./images/46f7d18d4c56a5d203b16b9a14043848.png",
+      "https://amplifyaapi.org/documents/25464636/25466632/icon_step-2.svg/4f972074-634d-0db7-d596-2c66f950133e?t=1686579250464": "./images/581ef56f8cd666815b942e9a58f15988.png",
+      "https://seal-chicago.bbb.org/logo/sehzbus/national-opinion-research-center-88329132.png": "./images/f04995911269e26d7bda5c35bed65171.png",
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/facebook.png": "./images/d7f1c5ff3c7ca82eff57b440c3cff492.png",
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/twitter.png": "./images/1a49ee7c968c56f4922360661869dd87.png",
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/norc-logo-footer.png": "./images/2f06e63dee8099699a3c13b674afa8a9.png",
+      "https://amplifyaapi.org/documents/25464636/25466632/icon_rewards.svg/6945ba69-7dc3-aa16-3e71-f6e93ead432a?t=1686579250031": "./images/885dc0a98af5bdd4aac04eb467fcd5db.png",
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/logo-full-color.svg": "./images/a11be8c462f42abc163476a8472a9dd3.png",
+      "https://amplifyaapi.org/o/norc-aapi-theme/images/NORC/bkgrnd_image_a.jpg": "./images/203dc14fce23ca9e54e8811c1758fcc9.jpg",
+      "https://amplifyaapi.org/documents/25464636/25466632/hero_external_image_a.jpg/b0d3fb23-08a3-8466-607a-acd51e221277?t=1686579249841": "./images/ab9c764ba536408772a5ec263fe6be37.jpg",
+      "https://cdn.ywxi.net/meter/amplifyaapi.org/205.svg?ts=1769563294586&l=en": "./images/2a9c9c27a88ef8345af7071172f588fe.png"
+    },
+    "stats": {
+      "total": 18,
+      "converted": 10,
+      "skipped": 7,
+      "failed": 0,
+      "tooLarge": 0,
+      "limitReached": 0
+    }
+  }
+}

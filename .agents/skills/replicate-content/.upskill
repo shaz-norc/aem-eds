@@ -1,0 +1,15 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "replicate-content",
+  "path": "plugins/aem/6.5-lts/skills/aem-replication/replicate-content",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:42.000Z",
+  "files": [
+    "SKILL.md",
+    "references/PACKAGE_REPLICATION.md",
+    "references/REPLICATION_API.md",
+    "references/TREE_ACTIVATION.md"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "commerce-app-api-mesh",
+  "path": "plugins/commerce/app-management/skills/commerce-app-api-mesh",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:03.000Z",
+  "files": [
+    "SKILL.md"
+  ]
+}

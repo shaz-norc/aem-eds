@@ -1,0 +1,25 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "extract",
+  "path": "plugins/stardust/skills/extract",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:54.000Z",
+  "files": [
+    "SKILL.md",
+    "reference/brand-review-template.md",
+    "reference/brand-surface.md",
+    "reference/cross-site-sources.md",
+    "reference/current-state-schema.md",
+    "reference/ia-extraction.md",
+    "reference/playwright-recipe.md",
+    "reference/prep-mode.md",
+    "scripts/crawl.mjs",
+    "scripts/style-census.mjs",
+    "scripts/test/crawl.test.mjs",
+    "scripts/test/style-census.test.mjs",
+    "scripts/test/thumb.test.mjs",
+    "scripts/thumb.mjs"
+  ]
+}

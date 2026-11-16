@@ -1,0 +1,21 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "appbuilder-ui-scaffolder",
+  "path": "plugins/app-builder/skills/appbuilder-ui-scaffolder",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:04.000Z",
+  "files": [
+    "SKILL.md",
+    "evals/evals.json",
+    "references/action-integration.md",
+    "references/aem-extensions.md",
+    "references/checklist.md",
+    "references/debugging.md",
+    "references/routing-patterns.md",
+    "references/shell-integration.md",
+    "references/spectrum-components.md",
+    "references/ui-patterns.md"
+  ]
+}

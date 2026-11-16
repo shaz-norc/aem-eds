@@ -1,0 +1,33 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "dynamics",
+  "path": "plugins/stardust/skills/dynamics",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:54.000Z",
+  "files": [
+    "SKILL.md",
+    "reference/classes-and-signals.md",
+    "reference/forms.md",
+    "reference/listings.md",
+    "reference/locale-trees.md",
+    "reference/martech.md",
+    "reference/off-origin-data.md",
+    "reference/parity-report.md",
+    "reference/patterns.md",
+    "reference/triage.md",
+    "scripts/dynamics-check.mjs",
+    "scripts/dynamics-detect.mjs",
+    "scripts/dynamics-plan.mjs",
+    "scripts/lib.mjs",
+    "scripts/martech.mjs",
+    "scripts/snapshot-api.mjs",
+    "scripts/snapshot-forms.mjs",
+    "scripts/sync-sheets.mjs",
+    "scripts/test/dynamics-check.test.mjs",
+    "scripts/test/dynamics-plan.test.mjs",
+    "scripts/test/martech.test.mjs",
+    "scripts/vendors.json"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "appbuilder-cicd-pipeline",
+  "path": "plugins/app-builder/skills/appbuilder-cicd-pipeline",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:05.000Z",
+  "files": [
+    "SKILL.md",
+    "assets/deploy-prod.yml",
+    "assets/deploy-stage.yml",
+    "assets/fetch-secrets.sh",
+    "assets/pr-test.yml",
+    "evals/evals.json",
+    "references/checklist.md",
+    "references/debugging.md",
+    "references/generic-pipeline-guide.md",
+    "references/github-actions-guide.md",
+    "references/secrets-management.md"
+  ]
+}

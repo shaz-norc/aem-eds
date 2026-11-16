@@ -1,0 +1,14 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "cja-segment-performance-comparator",
+  "path": "plugins/adobe-cja/skills/cja-segment-performance-comparator",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:44.000Z",
+  "files": [
+    "SKILL.md",
+    "evals/evals.json",
+    "template.html"
+  ]
+}

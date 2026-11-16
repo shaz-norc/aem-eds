@@ -1,0 +1,22 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "direct",
+  "path": "plugins/stardust/skills/direct",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:54.000Z",
+  "files": [
+    "SKILL.md",
+    "reference/add-variant.md",
+    "reference/cross-site-brand-inputs.md",
+    "reference/direction-format.md",
+    "reference/improvements-list.md",
+    "reference/mode-a-plus.md",
+    "reference/multi-variant.md",
+    "reference/palette-picker.md",
+    "reference/palettes/README.md",
+    "reference/palettes/library.json",
+    "reference/prep-mode.md"
+  ]
+}

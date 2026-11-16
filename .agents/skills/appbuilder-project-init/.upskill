@@ -1,0 +1,18 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "appbuilder-project-init",
+  "path": "plugins/app-builder/skills/appbuilder-project-init",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:05.000Z",
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "evals/evals.json",
+    "references/bootstrap.md",
+    "references/debugging.md",
+    "references/templates.md",
+    "scripts/init.sh"
+  ]
+}

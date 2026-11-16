@@ -1,0 +1,21 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "workflow-development",
+  "path": "plugins/aem/6.5-lts/skills/aem-workflow/workflow-development",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:39.000Z",
+  "files": [
+    "SKILL.md",
+    "references/workflow-development/participant-step-patterns.md",
+    "references/workflow-development/process-step-patterns.md",
+    "references/workflow-development/variables-and-metadata.md",
+    "references/workflow-foundation/65-lts-guardrails.md",
+    "references/workflow-foundation/README.md",
+    "references/workflow-foundation/api-reference.md",
+    "references/workflow-foundation/architecture-overview.md",
+    "references/workflow-foundation/jcr-paths-reference.md",
+    "references/workflow-foundation/quick-start-guide.md"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "run-workflow",
+  "path": "plugins/creative-cloud/run-workflow/skills/run-workflow",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:56.000Z",
+  "files": [
+    "SKILL.md",
+    "references/alert-rca.md",
+    "references/asset-input.md",
+    "references/compose.md",
+    "references/diagnostics.md",
+    "references/featured-and-templates.md",
+    "references/intake.md",
+    "references/workflow-guide.md"
+  ]
+}

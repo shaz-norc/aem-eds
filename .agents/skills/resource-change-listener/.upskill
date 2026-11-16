@@ -1,0 +1,12 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "resource-change-listener",
+  "path": "plugins/aem/cloud-service/skills/code-assessment/resource-change-listener",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:25.000Z",
+  "files": [
+    "SKILL.md"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "brand-setup",
+  "path": "plugins/aem/edge-delivery-services/skills/brand-setup",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:13.000Z",
+  "files": [
+    "SKILL.md",
+    "package.json",
+    "references/lookup-rules.md"
+  ]
+}

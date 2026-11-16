@@ -1,0 +1,14 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "page-tree",
+  "path": "plugins/web/skills/page-tree",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:47.000Z",
+  "files": [
+    ".releaserc.json",
+    "SKILL.md",
+    "package.json"
+  ]
+}

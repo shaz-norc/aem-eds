@@ -5,6 +5,9 @@
 
 .hero {
   position: relative;
+  isolation: isolate;
+  background-color: var(--dark-color);
+  color: var(--background-color);
   padding: 40px 24px;
   min-height: 300px;
 }
@@ -13,7 +16,18 @@
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  color: var(--background-color);
+  color: inherit;
+}
+
+.hero p,
+.hero a {
+  color: inherit;
+}
+
+.hero a.button.primary {
+  border-color: var(--background-color);
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
 .hero picture {

@@ -1,0 +1,14 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "cdp-connect",
+  "path": "plugins/web/skills/cdp-connect",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:55:49.000Z",
+  "files": [
+    ".releaserc.json",
+    "SKILL.md",
+    "package.json"
+  ]
+}

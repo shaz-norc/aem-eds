@@ -1,0 +1,23 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "da-content",
+  "path": "plugins/aem/edge-delivery-services/skills/da-content",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:12.000Z",
+  "files": [
+    ".releaserc.json",
+    "CHANGELOG.md",
+    "SKILL.md",
+    "package.json",
+    "references/fixtures/README.md",
+    "references/fixtures/asset-boundary-test-v2.expected-rendered.html",
+    "references/fixtures/asset-boundary-test-v2.html",
+    "references/fixtures/asset-boundary-test.expected-rendered.html",
+    "references/fixtures/asset-boundary-test.html",
+    "references/html-content.md",
+    "references/media.md",
+    "references/platform.md"
+  ]
+}

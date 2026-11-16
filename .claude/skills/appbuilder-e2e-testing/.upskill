@@ -1,0 +1,19 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "appbuilder-e2e-testing",
+  "path": "plugins/app-builder/skills/appbuilder-e2e-testing",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:05.000Z",
+  "files": [
+    "SKILL.md",
+    "assets/e2e-ci-workflow.yml",
+    "assets/e2e-test-template.spec.ts",
+    "assets/playwright.config.ts",
+    "evals/evals.json",
+    "references/aem-extension-testing.md",
+    "references/ci-integration.md",
+    "references/e2e-testing-patterns.md"
+  ]
+}

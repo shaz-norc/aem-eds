@@ -1,0 +1,21 @@
+{
+  "kind": "github",
+  "source": "adobe/skills",
+  "skill": "scrape-webpage",
+  "path": "plugins/aem/edge-delivery-services/skills/scrape-webpage",
+  "sha": "cd00021f66ce5326a9907681c391c28852a79c82",
+  "version": 1,
+  "installed": "2026-11-13T11:56:09.000Z",
+  "files": [
+    ".releaserc.json",
+    "CHANGELOG.md",
+    "SKILL.md",
+    "package.json",
+    "references/web-page-analysis.md",
+    "scripts/analyze-webpage.js",
+    "scripts/generate-path.js",
+    "scripts/image-capture.js",
+    "scripts/package-lock.json",
+    "scripts/package.json"
+  ]
+}
