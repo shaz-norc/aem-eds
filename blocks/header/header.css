@@ -311,14 +311,10 @@ header .header nav .nav-sections a[aria-current='page']::after {
 @media (width >= 1024px) {
   header .header nav {
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     gap: 0;
     min-height: 100px;
     padding: 0 16px;
-  }
-
-  header .header nav .nav-brand {
-    margin-left: auto;
   }
 
   header .header nav .nav-brand img {
@@ -332,7 +328,7 @@ header .header nav .nav-sections a[aria-current='page']::after {
   header .header nav .nav-sections {
     position: static;
     display: flex;
-    flex: 0 1 auto;
+    flex: 1 1 auto;
     align-items: center;
     height: 100px;
     margin-left: 30px;
@@ -340,14 +336,14 @@ header .header nav .nav-sections a[aria-current='page']::after {
   }
 
   header .header nav .nav-sections > .default-content-wrapper {
-    flex: 0 1 auto;
+    flex: 1 1 auto;
     min-width: 0;
   }
 
   header .header nav .nav-sections ul {
     flex-direction: row;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: flex-start;
     gap: 60px;
   }
 
@@ -477,13 +473,10 @@ header .header nav .nav-sections .nav-account a:hover {
   }
 
   header .header nav .nav-sections .nav-account {
-    position: absolute;
-    top: 50%;
-    left: 16px;
-    margin: 0;
+    flex: 0 0 auto;
+    margin: 0 0 0 24px;
     border: 0;
     padding: 0;
-    transform: translateY(-50%);
   }
 
   header .header nav .nav-sections .nav-account p {

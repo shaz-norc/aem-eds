@@ -157,6 +157,53 @@ function createNavigation(navSections) {
   return nav;
 }
 
+function createNavSection(nodes) {
+  const section = document.createElement('div');
+  const wrapper = document.createElement('div');
+  wrapper.className = 'default-content-wrapper';
+  wrapper.append(...nodes.filter(Boolean));
+  section.append(wrapper);
+  return section;
+}
+
+function getNavSections(nav) {
+  const sections = [...nav.children];
+  if (sections.length >= 4) return sections;
+
+  const nodes = sections.flatMap((section) => {
+    const wrapper = [...section.children].find((child) => (
+      child.classList.contains('default-content-wrapper')
+    ));
+    return wrapper ? [...wrapper.children] : [...section.children];
+  });
+  const brand = nodes.find((node) => node.querySelector('img[alt="Amplify AAPI"]'));
+  const lists = nodes.filter((node) => node.tagName === 'UL');
+  const primary = lists.find((list) => [...list.querySelectorAll('a[href]')].some((link) => {
+    const url = new URL(link.href, window.location);
+    return normalizePath(url.pathname) === '/' || link.textContent.trim().toLowerCase() === 'home';
+  }));
+  const languages = lists.find((list) => list !== primary);
+  const language = nodes.find((node) => (
+    node.tagName === 'P'
+    && node.querySelector('img')
+    && node.textContent.trim() === 'English'
+  ));
+  const account = nodes.find((node) => {
+    const labels = [...node.querySelectorAll('a')].map((link) => (
+      link.textContent.trim().toLowerCase()
+    ));
+    return labels.includes('register') && labels.includes('sign in');
+  });
+
+  if (!brand || !primary) return sections;
+  return [
+    createNavSection([brand]),
+    createNavSection([primary]),
+    createNavSection([language, languages]),
+    ...(account ? [createNavSection([account])] : []),
+  ];
+}
+
 /**
  * Loads and decorates the header, mainly the nav.
  * @param {Element} block The header block element
@@ -175,7 +222,7 @@ export default async function decorate(block) {
   nav.className = 'nav-content';
   while (fragment.firstElementChild) nav.append(fragment.firstElementChild);
 
-  const sections = [...nav.children];
+  const sections = getNavSections(nav);
   sections[0]?.classList.add('nav-brand');
   sections[1]?.classList.add('nav-sections');
   sections[2]?.classList.add('nav-tools');
